@@ -1,6 +1,5 @@
 MovieHub - A Full Stack Movie Review Application
 
-Description:
 Dive into the cinematic realm with MovieHub, a dynamic Movie Review Application that I've crafted through an immersive Full Stack Development journey. Leveraging MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend, MovieHub stands as a testament to the seamless integration of diverse technologies.
 
 Key Features:
