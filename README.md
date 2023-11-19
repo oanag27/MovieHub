@@ -12,8 +12,3 @@ Key Features:
 MovieHub isn't just a project; it's a fully functional application designed to cater to the needs of movie enthusiasts, providing a platform to discover, review, and discuss their favorite films.
 
 The choice of MongoDB, Java, Spring Boot, and React wasn't just about building MovieHub—it was about building a foundation for scalability and adaptability, ensuring that the application can evolve alongside the ever-changing world of technology. 🌐✨
-
-
-
-
-
