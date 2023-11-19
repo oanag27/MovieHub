@@ -3,6 +3,7 @@
 Dive into the cinematic realm with MovieHub, a dynamic Movie Review Application that I've crafted through an immersive Full Stack Development journey.
 
 Key Features:
+
 🎥 Comprehensive Movie Database: Utilizing MongoDB, MovieHub boasts a robust movie database that facilitates efficient storage and retrieval of movie information.
 
 ⚙️ Backend Magic with Java and Spring Boot: The application's server-side functionalities are powered by the potent combination of Java and Spring Boot, ensuring a scalable and performant backend.
